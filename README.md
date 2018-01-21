@@ -1,2 +1,3 @@
 # hello-world
-just starting with github
+Just starting with github.
+I'm about to upload my first project
